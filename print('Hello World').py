@@ -1,4 +1,6 @@
 print('Hello World')
-a = 'alheri'
-b = ' Shamaki'
-print(a+b)
+def addition(a, b):
+    print('Alheri Shamaki')
+    return a + b
+
+    
